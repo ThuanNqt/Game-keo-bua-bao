@@ -1,0 +1,36 @@
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.exe
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.deps.json
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.runtimeconfig.json
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.dll
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.pdb
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.csproj.AssemblyReference.cache
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.Form1.resources
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.Properties.Resources.resources
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.csproj.GenerateResource.cache
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.AssemblyInfoInputs.cache
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.AssemblyInfo.cs
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.csproj.CoreCompileInputs.cache
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.dll
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\refint\GameKeoBuaBao.dll
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.pdb
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.genruntimeconfig.cache
+C:\Users\adoan\OneDrive\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\ref\GameKeoBuaBao.dll
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.exe
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.deps.json
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.runtimeconfig.json
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.dll
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\bin\Debug\net6.0-windows\GameKeoBuaBao.pdb
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.csproj.AssemblyReference.cache
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.Form1.resources
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.Properties.Resources.resources
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.csproj.GenerateResource.cache
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.AssemblyInfoInputs.cache
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.AssemblyInfo.cs
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.csproj.CoreCompileInputs.cache
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.dll
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\refint\GameKeoBuaBao.dll
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.pdb
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\GameKeoBuaBao.genruntimeconfig.cache
+C:\Users\adoan\OneDrive\OOP\Game Unity\GameKeoBuaBao\GameKeoBuaBao\obj\Debug\net6.0-windows\ref\GameKeoBuaBao.dll
